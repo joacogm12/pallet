@@ -1,1 +1,2 @@
-console.log("Hola mundo")
+require('dotenv').config()
+console.log("probando commit en conjnto")
